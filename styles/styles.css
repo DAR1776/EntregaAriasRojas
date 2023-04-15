@@ -90,9 +90,13 @@ footer .footer-icons img {
 .seccion-home .contenido-home-cta {
   margin-top: 30px;
 }
-.seccion-home .contenido-home-cta button {
+.seccion-home .contenido-home-cta a {
   margin-top: 30px;
   border-radius: 15px;
+  background-color: #2F3434;
+  color: white;
+  padding: 10px 30px 10px 30px;
+  text-decoration: none;
 }
 
 .contenido-nosotros {
@@ -170,11 +174,12 @@ footer .footer-icons img {
   text-align: center;
   margin: 6% auto 9% auto;
 }
-.seccion-productos .productos .producto button {
-  margin-bottom: 20px;
-  padding: 5px 15px;
-}
-.seccion-productos .productos .producto button a {
+.seccion-productos .productos .producto a {
+  margin-bottom: 30px;
+  border-radius: 15px;
+  background-color: #2F3434;
+  color: white;
+  padding: 10px 30px 10px 30px;
   text-decoration: none;
 }
 .seccion-productos .tabla-tallas {
@@ -184,7 +189,7 @@ footer .footer-icons img {
   margin-bottom: 50px;
   text-align: center;
   align-items: center;
-  background-color: #dbdbcf;
+  background-color: #242424;
 }
 .seccion-productos .tabla-tallas .box {
   text-align: center;
@@ -213,15 +218,17 @@ footer .footer-icons img {
 .seccion-contacto form {
   display: flex;
   flex-direction: column;
+  margin-bottom: 30px;
 }
 .seccion-contacto form div {
   margin-top: 15px;
 }
-.seccion-contacto button {
-  margin-top: 15px;
-  padding: 5px 15px 5px 15px;
-}
-.seccion-contacto button a {
+.seccion-contacto a {
+  margin: 30px;
+  border-radius: 15px;
+  background-color: #2F3434;
+  color: white;
+  padding: 10px 30px 10px 30px;
   text-decoration: none;
 }
 
