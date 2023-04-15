@@ -75,6 +75,10 @@ footer .footer-icons img {
   padding: 50px 0 50px 0;
   background-color: #dbdbcf;
 }
+.seccion-home h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
 .seccion-home .carousel {
   height: 600px;
   width: 400px;
