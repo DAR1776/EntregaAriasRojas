@@ -2,7 +2,7 @@
 
 .seccion-contacto {
     height: 650px;
-    background-color: $background-color;
+    background-color: map-get($color, background-color);
 
     form{
         display: flex;

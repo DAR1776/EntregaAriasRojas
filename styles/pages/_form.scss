@@ -2,7 +2,7 @@
 
 .seccion-envio {
     height: 600px;
-    background-color: $background-color;
+    background-color: map-get($color, background-color);
     padding-top: 100px;
 
     h1{
